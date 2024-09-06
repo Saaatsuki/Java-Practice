@@ -4,7 +4,7 @@ public class CommentExample {
     public static void main(String[] args) {
         // Scanner 객체를 생성하여 사용자 입력을 받기
         Scanner scanner = new Scanner(System.in);
-        
+
         // 사용자에게 출력할 구구단을 입력하라고 요청
         System.out.print("출력할 구구단을 입력하세요: ");
         int tableNumber = scanner.nextInt(); // 사용자가 입력한 값을 저장
